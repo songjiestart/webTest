@@ -16,6 +16,6 @@ public class TestController {
     @RequestMapping("/str12")
     @ResponseBody
     public String test(){
-        return "xxxx\r\nsss7777xs22d<br>w242133<br>123<br>xxxx";
+        return "xxxx\r\nsss7777xs22d<br>123w242133<br>123<br>xxxx";
     }
 }
